@@ -1,0 +1,10 @@
+%YAML 1.1
+%TAG ! tag:yaml.org,2002:yaml
+--- !u!129 &1
+PlayerSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 23
+  productName: My 2D Game
+  productVersion: 1.0
+  m_AndroidProfiler: 0
+  m_AndroidFilterTouchesWhenObscured: 1
